@@ -50,7 +50,7 @@ Contributions to the SVG Logo Maker are welcome. To contribute, please follow th
  5. Submit a pull request detailing your changes.
 
 ## Collaborators
-This project was completed with guidance, assistance and collaboration from UC Berkeley Extension tutor, Robby Kurle. Only code sourced from EdX curriculum content was used for guidance.
+This project was completed with guidance and assistance from UC Berkeley Extension tutor, Robby Kurle.
 
 ## Tests
 This project includes automated tests to ensure the correctness of the SVG shape rendering. You can run the tests using the following command: `npm run test`
