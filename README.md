@@ -50,7 +50,7 @@ Contributions to the README Generator are welcome. To contribute, please follow 
  5. Submit a pull request detailing your changes.
 
 ## Collaborators
-Contributions to this project are currently not being accepted. If you would like to contribute, please contact me at the email listed below.
+This project was completed with guidance and assistance and collaboration from UC Berkeley Extension tutor Robby Kurle. Code sourced from EdX curriculum content was used for guidance.
 
 ## Tests
 This project includes automated tests to ensure the correctness of the SVG shape rendering. You can run the tests using the following command: `npm run test`
