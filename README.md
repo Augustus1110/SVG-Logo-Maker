@@ -19,7 +19,7 @@
 This is a command-line tool that allows the user to create custom logos by combining text and geometric shapes. The user can choose up to three characters of text, a text color and shape type, and the tool will generate an SVG logo.
 
 ## Installation
-To install the README Generator, follow these steps:
+To install the SVG Logo Maker, follow these steps:
  1. Clone the GitHub repository: `git clone https://github.com/Augustus1110/SVG-Logo-Maker.git`
  2. Navigate to the project's directory: `cd SVG-Logo-Maker`
  3. Install the required npm packages: `npm install`
@@ -42,7 +42,7 @@ To use the SVG Logo Maker, follow these steps:
 ![Screenshot](./images/logo.png)
 
 ## Contributing
-Contributions to the README Generator are welcome. To contribute, please follow these guidelines:
+Contributions to the SVG Logo Maker are welcome. To contribute, please follow these guidelines:
  1. Fork the repository.
  2. Create a new branch.
  3. Make your changes and commit them.
