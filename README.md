@@ -5,6 +5,7 @@
 ## Table of Contents
 1. [Description](#description)
 2. [Installation](#installation)
+3. [Technologies](#technologies) 
 3. [Usage](#usage)
 4. [Images](#images)
 5. [Contributing](#contributing)
@@ -22,6 +23,12 @@ To install the README Generator, follow these steps:
  1. Clone the GitHub repository: `git clone https://github.com/Augustus1110/SVG-Logo-Maker.git`
  2. Navigate to the project's directory: `cd SVG-Logo-Maker`
  3. Install the required npm packages: `npm install`
+
+ ## Technologies
+This project was built using the following technologies:
+    - Node.js
+    - Inquirer.js
+    - Jest
 
 ## Usage
 To use the SVG Logo Maker, follow these steps:
