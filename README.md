@@ -6,14 +6,14 @@
 1. [Description](#description)
 2. [Installation](#installation)
 3. [Technologies](#technologies) 
-3. [Usage](#usage)
-4. [Images](#images)
-5. [Contributing](#contributing)
-6. [Collaborators](#collaborators)
-7. [Tests](#tests)
-8. [Questions](#questions)
-9. [License](#license)
-10. [Video Walkthrough](#video-walkthrough)
+4. [Usage](#usage)
+5. [Images](#images)
+6. [Contributing](#contributing)
+7. [Collaborators](#collaborators)
+8. [Tests](#tests)
+9. [Questions](#questions)
+10. [License](#license)
+11. [Video Walkthrough](#video-walkthrough)
 
 ## Description
 This is a command-line tool that allows the user to create custom logos by combining text and geometric shapes. The user can choose up to three characters of text, a text color and shape type, and the tool will generate an SVG logo.
@@ -24,7 +24,7 @@ To install the README Generator, follow these steps:
  2. Navigate to the project's directory: `cd SVG-Logo-Maker`
  3. Install the required npm packages: `npm install`
 
- ## Technologies
+## Technologies
 This project was built using the following technologies:
     - Node.js
     - Inquirer.js
