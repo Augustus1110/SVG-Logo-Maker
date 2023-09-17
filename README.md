@@ -67,4 +67,4 @@ MIT
 (https://opensource.org/licenses/MIT)
 
 ## Video Walkthrough
-(https://drive.google.com...)
+(https://drive.google.com/file/d/1EXi_ys6b-jvQWAyDTgSJrrkCvi8eMecI/view)
